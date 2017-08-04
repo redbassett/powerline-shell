@@ -14,6 +14,9 @@ class DefaultColor:
 
     HOSTNAME_FG = 250
     HOSTNAME_BG = 238
+    
+    USERHOST_FG = 15
+    USERHOST_BG = 39
 
     HOME_SPECIAL_DISPLAY = True
     HOME_BG = 31  # blueish
